@@ -1,1 +1,19 @@
-# async-landing
+## 🧡Async-landing
+
+Async-Landing nace como un proyecto innovador de práctica de asincronismo con Javascript con el objetivo de consolidar conocimientos y fundamentos en este campo. En esta iniciativa, hemos creado una landing-page enfocada a mostrar información sobre Lofi-Girl una banda de música Francesa.
+
+En términos de tecnología, hemos utilizado diversas herramientas para personalizar la landing-page de la cual la plantilla fué facilitada por el tutor del curso. En cuanto al estructuramiento de la página, hicimos un uso adecuado de las etiquetas HTML. Para el funcionamiento del sitio, optamos por Javascript aplicando asincronismo para la espera de la completa ejecución de la solicitud HTTP antes de continuar con la generación del contenido HTML y la manipulación del DOM. 
+
+## ✨Logo
+
+![android-chrome-512x512](https://github.com/mstovarh/async-landing/assets/107591274/0a0ef41d-8901-4d31-b6f8-860ced7eb456)
+
+Creado con: <a>https://favicon.io/favicon-generator/</a>
+
+## ✅Previsualización de la pagina
+
+<a>/</a>
+
+## 📌Estado del proyecto
+
+Culminado
