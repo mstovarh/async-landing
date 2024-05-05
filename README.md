@@ -14,6 +14,9 @@ Creado con: <a>https://favicon.io/favicon-generator/</a>
 
 <a>https://mstovarh.github.io/async-landing/</a>
 
+![image](https://github.com/mstovarh/async-landing/assets/107591274/9c5d4bfd-6e38-401d-b795-71eed9aa65bc)
+
+
 ## 📌Estado del proyecto
 
 Culminado
