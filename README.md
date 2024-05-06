@@ -2,7 +2,7 @@
 
 Async-Landing nace como un proyecto innovador de práctica de asincronismo con Javascript con el objetivo de consolidar conocimientos y fundamentos en este campo. En esta iniciativa, hemos creado una landing-page enfocada a mostrar información sobre Lofi-Girl una banda de música Francesa.
 
-En términos de tecnología, hemos utilizado diversas herramientas para personalizar la landing-page de la cual la plantilla fué facilitada por el tutor del curso. En cuanto al estructuramiento de la página, hicimos un uso adecuado de las etiquetas HTML. Para el funcionamiento del sitio, optamos por Javascript aplicando asincronismo para la espera de la completa ejecución de la solicitud HTTP antes de continuar con la generación del contenido HTML y la manipulación del DOM. 
+En términos de tecnología, hemos utilizado diversas herramientas para personalizar la landing-page de la cual la plantilla fué facilitada por el tutor del curso, @gndx. En cuanto al estructuramiento de la página, hicimos un uso adecuado de las etiquetas HTML. Para el funcionamiento del sitio, optamos por Javascript aplicando asincronismo para la espera de la completa ejecución de la solicitud HTTP antes de continuar con la generación del contenido HTML y la manipulación del DOM. 
 
 ## ✨Logo
 
